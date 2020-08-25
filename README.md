@@ -1,8 +1,9 @@
 # Query Profiling in MySQL (DBAMA, June 2020)
 
-These are the notes for my presentation/demo at https://dbama.now.sh/,
-on 2020-06-30. All SQL in this repo is licensed as CC0, so feel free to
-copy, share and use as you please.
+These are the notes for
+[my presentation/demo](https://www.youtube.com/watch?v=hKGWdqlEt98) at
+https://dbama.now.sh/, on 2020-06-30. All SQL in this repo is licensed
+as CC0, so feel free to copy, share and use as you please.
 
 MySQL has a large toolbox for query analysis:
 
